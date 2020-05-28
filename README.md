@@ -1,2 +1,0 @@
-# QuickStartReact
-Created with CodeSandbox
